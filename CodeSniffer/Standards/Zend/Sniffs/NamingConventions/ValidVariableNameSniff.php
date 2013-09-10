@@ -1,6 +1,6 @@
 <?php
 /**
- * Squiz_Sniffs_NamingConventions_ValidVariableNameSniff.
+ * Zend_Sniffs_NamingConventions_ValidVariableNameSniff.
  *
  * PHP version 5
  *
@@ -18,7 +18,7 @@ if (class_exists('PHP_CodeSniffer_Standards_AbstractVariableSniff', true) === fa
 }
 
 /**
- * Squiz_Sniffs_NamingConventions_ValidVariableNameSniff.
+ * Zend_Sniffs_NamingConventions_ValidVariableNameSniff.
  *
  * Checks the naming of variables and member variables.
  *
